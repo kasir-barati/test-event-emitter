@@ -1,0 +1,19 @@
+{
+  "name": "test-event-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejsdeveloperskh/test-event-emitter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodejsdeveloperskh/test-event-emitter/issues"
+  },
+  "homepage": "https://github.com/nodejsdeveloperskh/test-event-emitter#readme"
+}
